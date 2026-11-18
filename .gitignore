@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+TMDB_movie_dataset_v11.csv
+movies_clean.csv
+step*.py
+1.py
+view.py
+tempCodeRunnerFile.py
